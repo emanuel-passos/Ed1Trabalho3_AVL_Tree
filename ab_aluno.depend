@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1609272958 source:g:\ab_aluno\ab_tree.c
+	"ab_tree.h"
+
+1609266601 g:\ab_aluno\ab_tree.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1609282195 source:g:\ab_aluno\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Binary_Tree.h"
+	"Aluno.h"
+
+1609282982 source:g:\ab_aluno\binary_tree.c
+	"Binary_Tree.h"
+	"Aluno.h"
+
+1609281982 g:\ab_aluno\binary_tree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1609282589 source:g:\ab_aluno\aluno.c
+	"Aluno.h"
+
+1609282589 g:\ab_aluno\aluno.h
+	<stdlib.h>
+	<stdio.h>
+
+1609282589 source:c:\users\scarlet_shadow\desktop\ab_aluno\aluno.c
+	"Aluno.h"
+
+1609282589 c:\users\scarlet_shadow\desktop\ab_aluno\aluno.h
+	<stdlib.h>
+	<stdio.h>
+
+1609725225 source:c:\users\scarlet_shadow\desktop\ab_aluno\binary_tree.c
+	"Binary_Tree.h"
+	"Aluno.h"
+
+1609281982 c:\users\scarlet_shadow\desktop\ab_aluno\binary_tree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1609282195 source:c:\users\scarlet_shadow\desktop\ab_aluno\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Binary_Tree.h"
+	"Aluno.h"
+
